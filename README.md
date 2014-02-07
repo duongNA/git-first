@@ -1,4 +1,1 @@
-git-first
-=========
-
-Git first repository
+My first git repository
